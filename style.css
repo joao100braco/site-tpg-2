@@ -1,5 +1,5 @@
-body{
-    background-color: #21E157;
+.cabeçalho{
+    background-color: #5d82e9;
     color: white;
 }
 
@@ -7,6 +7,6 @@ header{
     background-color: #383D58;
 }
 
-.cabecalho-imagem{
+.cabeçalho-imagem{
     widht: 20%;
 }
