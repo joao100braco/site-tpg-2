@@ -1,5 +1,8 @@
 
-
+{
+    margin: 0;
+    padding: 0;
+}
 .cabeçalho{
     background-color: #5d82e9;
     color: white;
