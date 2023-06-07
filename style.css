@@ -24,6 +24,10 @@ header{
 .TPG-imagem{
     width: 25%;
 }
-.tropa-puramente-grandiosa{
-    background-image: linear-gradient(#21E157#2157E1) ;
+
+.tropa-puramente-grandiosa
+{
+    background-image: linear-gradient(#21E157,#2157E1);
+    color: rgb(1, 0, 0);
+    display: flex;
 } 
