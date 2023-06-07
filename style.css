@@ -13,7 +13,7 @@ header{
 }
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 8%;
 }
 
 .cabeçalho-lista-item{
@@ -30,4 +30,21 @@ header{
     background-image: linear-gradient(#21E157,#2157E1);
     color: rgb(1, 0, 0);
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px 0;
 } 
+
+.tropa-puramente-grandiosa-div-conteudo{
+    width: 35%;
+}
+
+.tropa-puramente-grandiosa-div-conteudo{
+    padding: 35px 0;
+}
+
+
+
+.tropa-final{
+
+}
