@@ -9,7 +9,8 @@
 }
 
 header{
-    background-color: #383D58;
+    background-image: linear-gradient(#21E157);
+    background-color: #21E157;
 }
 
 .cabeçalho-imagem{
@@ -46,5 +47,6 @@ header{
 
 
 .tropa-final{
-
+    width: 100%;
 }
+
