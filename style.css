@@ -49,4 +49,9 @@ header{
 .tropa-final{
     width: 100%;
 }
-
+.rodape{
+    background-color: black;
+}
+.rodape-imagem{
+    height: 20px;
+}
